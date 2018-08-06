@@ -1,0 +1,22 @@
+{
+  "name": "uploadfile",
+  "version": "1.0.0",
+  "description": "\"Learn to upload file and more.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MintySoda/UploadFile.git"
+  },
+  "author": "Hoshiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MintySoda/UploadFile/issues"
+  },
+  "homepage": "https://github.com/MintySoda/UploadFile#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
